@@ -66,6 +66,24 @@ Current "Analog" kanban board.
 
 https://trello.com/b/5i3zk8Oj/flow-general
 
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="https://gaboesquivel.com"><img src="https://avatars0.githubusercontent.com/u/391270?v=4" width="100px;" alt="Gabo Esquivel"/><br /><sub><b>Gabo Esquivel</b></sub></a><br /><a href="#ideas-gaboesquivel" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/blockmatic/flowdapp/commits?author=gaboesquivel" title="Code">💻</a> <a href="#review-gaboesquivel" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/JeffBriCR"><img src="https://avatars2.githubusercontent.com/u/1731975?v=4" width="100px;" alt="Jeffrey Briceño"/><br /><sub><b>Jeffrey Briceño</b></sub></a><br /><a href="https://github.com/blockmatic/flowdapp/commits?author=JeffBriCR" title="Code">💻</a> <a href="#ideas-JeffBriCR" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/lucascr"><img src="https://avatars2.githubusercontent.com/u/473183?v=4" width="100px;" alt="lucascr"/><br /><sub><b>lucascr</b></sub></a><br /><a href="#ideas-lucascr" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/JustinCast"><img src="https://avatars1.githubusercontent.com/u/17890146?v=4" width="100px;" alt="Justin Castillo Valladares"/><br /><sub><b>Justin Castillo Valladares</b></sub></a><br /><a href="#ideas-JustinCast" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 ## Blockmatic
 
 Blockmatic is building a robust ecosystem of people and tools for development of decentralized applications.
