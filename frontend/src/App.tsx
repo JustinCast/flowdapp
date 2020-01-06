@@ -6,6 +6,7 @@ import About from 'routes/About'
 import Profile from 'routes/Profile'
 import AppProvider from 'components/AppProvider'
 import Navigation from 'components/Navigation'
+import Dashboard from 'routes/Dashboard'
 
 export default function App(): JSX.Element {
   return (
@@ -15,6 +16,9 @@ export default function App(): JSX.Element {
       {/* A <Switch> looks through its children <Route>s and
           renders the first one that matches the current URL. */}
       <Switch>
+        <Route path="/dashboard">
+          <Dashboard />
+        </Route>
         <Route path="/about">
           <About />
         </Route>
